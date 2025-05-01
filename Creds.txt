@@ -1,2 +1,0 @@
-username = Tanjiro
-password = 123
